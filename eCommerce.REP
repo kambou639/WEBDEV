@@ -1,0 +1,28 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=E	;Analysis GUID
+LOCALIZATION_UTF8=61F99A6C4C4640329557446EB5B4A2CF	Famille	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\Famille.FIC
+LOCALIZATION_UTF8=45E27C67276A4E1ABE81840F81F6DCA9	Produit	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\Produit.FIC
+LOCALIZATION_UTF8=6788BE170C3045F7B3D1F0200A2BA517	CONFIGURATION_SITE	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\CONFIGURATION_SITE.FIC
+LOCALIZATION_UTF8=DBDD37EA81244ADBAB0CD9E0391ABE7F	Promotion	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\Promotions.FIC
+LOCALIZATION_UTF8=8660A88BE0044BEDB7A76D481C41871A	Client	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\Client.FIC
+LOCALIZATION_UTF8=15AF365CCCBC435BAB3DB39BE576D661	Adresse	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\Adresse.FIC
+LOCALIZATION_UTF8=920D1762962B458ABB69B623812817C4	Commande	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\Commande.FIC
+LOCALIZATION_UTF8=BAA2C575E7AF4385A811771844713E5E	LigneCde	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\LigneCde.FIC
+LOCALIZATION_UTF8=5657B51DECFB4A0E8D56BC2431669A92	Question	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\Question.FIC
+LOCALIZATION_UTF8=CFEFCE75BDD94F4E869E54682F320066	Nouveauté	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\Nouveauté.FIC
+LOCALIZATION_UTF8=DDEAC07CCD314D3FB59A46C81D6E4FD4	Actualités	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\Actualités.FIC
+LOCALIZATION_UTF8=A595FC3283224BE0A959A7B97BA207CE	DéclinaisonProduit	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\DéclinaisonProduit.FIC
+LOCALIZATION_UTF8=496E56F58CBA4A9F8537C113D5DD8BC2	Caractéristique	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\Caractéristique.FIC
+LOCALIZATION_UTF8=66E2D8AA42E94391A28CC2786285D981	ValeurCaractéristique	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\Valeur_Caractéristique.FIC
+LOCALIZATION_UTF8=DABD2824EA624B8482563F62F1D538B6	DéclinaisonProduit_ValeurCaractéristique	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\DéclinaisonProduit_ValeurCaractéristique.FIC
+LOCALIZATION_UTF8=6802CC9C2553478B81BFCFA885B9EEB1	TauxTaxe	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\TauxTaxe.FIC
+LOCALIZATION_UTF8=8A9FC4BB46E745F4B314C694E374ADC6	PhotoProduit	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\photoproduit.FIC
+LOCALIZATION_UTF8=237DB143BE2B48BD838677AC456B7D01	AdresseArchive	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\AdresseArchive.FIC
+LOCALIZATION_UTF8=26BF02B69E92441FADAA8836E38CA251	NumCommande	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\NumCommande.FIC
+LOCALIZATION_UTF8=5778A4D169DF460F8B45191FF17A482B	Avis	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\Avis.FIC
+LOCALIZATION_UTF8=383313349F724365B72B58A81940FEDF	VoteAvis	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\VoteAvis.FIC
+LOCALIZATION_UTF8=9CE470D7F5A141E8B174F59C59976820	LigneCde_DéclinaisonsProduit	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\LigneCde_DéclinaisonsProduit.FIC
+LOCALIZATION_UTF8=336D0602F2F8419C9BDA9FB957EC2584	Historique	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\Historique.FIC
+LOCALIZATION_UTF8=20F6442EC95541F797AEDAEE7F12B5BB	PhotoPromotion	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\PhotoPromotion.FIC
+LOCALIZATION_UTF8=CA29E019688C48FE8E2399A39F23A69C	LiaisonProduit	C:\Mes Sites\Mes Exemples\eCommerce\Exe\eCommerce\LiaisonProduit.fic
